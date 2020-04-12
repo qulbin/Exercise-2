@@ -1,0 +1,6 @@
+D:\__QULBI\DOT NET\exercise2no2\exercise2no2\bin\Debug\exercise2no2.exe.config
+D:\__QULBI\DOT NET\exercise2no2\exercise2no2\bin\Debug\exercise2no2.exe
+D:\__QULBI\DOT NET\exercise2no2\exercise2no2\bin\Debug\exercise2no2.pdb
+D:\__QULBI\DOT NET\exercise2no2\exercise2no2\obj\Debug\exercise2no2.csprojResolveAssemblyReference.cache
+D:\__QULBI\DOT NET\exercise2no2\exercise2no2\obj\Debug\exercise2no2.exe
+D:\__QULBI\DOT NET\exercise2no2\exercise2no2\obj\Debug\exercise2no2.pdb
